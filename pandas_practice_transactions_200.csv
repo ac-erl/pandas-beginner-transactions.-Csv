@@ -1,0 +1,201 @@
+Transaction_ID,Customer_Name,Order_Item,Amount,Payment_Method
+TXN0001,Kemi,T-Shirt,2875,USSD
+TXN0002,Zainab,Power Bank,4250,Card
+TXN0003,Bola,Keyboard,5625,Mobile Money
+TXN0004,Kunle,Flash Drive,7000,Bank Transfer
+TXN0005,Ada,Sneakers,8375,Cash
+TXN0006,Chinedu,USB Cable,9750,USSD
+TXN0007,Musa,Headphones,11125,Card
+TXN0008,Seyi,Desk Lamp,12500,Mobile Money
+TXN0009,Dami,Backpack,13875,Bank Transfer
+TXN0010,Ngozi,Monitor,15250,Cash
+TXN0011,David,Phone,16625,USSD
+TXN0012,Emeka,Water Bottle,18000,Card
+TXN0013,Ola,Notebook,19375,Mobile Money
+TXN0014,Blessing,Mouse,20750,Bank Transfer
+TXN0015,Fatima,Laptop,22125,Cash
+TXN0016,Tunde,T-Shirt,23500,USSD
+TXN0017,Daniel,Power Bank,24875,Card
+TXN0018,Ibrahim,Keyboard,26250,Mobile Money
+TXN0019,Yemi,Flash Drive,27625,Bank Transfer
+TXN0020,Ayo,Sneakers,29000,Cash
+TXN0021,Kemi,USB Cable,30375,USSD
+TXN0022,Zainab,Headphones,31750,Card
+TXN0023,Bola,Desk Lamp,33125,Mobile Money
+TXN0024,Kunle,Backpack,34500,Bank Transfer
+TXN0025,Ada,Monitor,35875,Cash
+TXN0026,Chinedu,Phone,37250,USSD
+TXN0027,Musa,Water Bottle,38625,Card
+TXN0028,Seyi,Notebook,40000,Mobile Money
+TXN0029,Dami,Mouse,41375,Bank Transfer
+TXN0030,Ngozi,Laptop,42750,Cash
+TXN0031,David,T-Shirt,44125,USSD
+TXN0032,Emeka,Power Bank,45500,Card
+TXN0033,Ola,Keyboard,46875,Mobile Money
+TXN0034,Blessing,Flash Drive,48250,Bank Transfer
+TXN0035,Fatima,Sneakers,49625,Cash
+TXN0036,Tunde,USB Cable,2500,USSD
+TXN0037,Daniel,Headphones,3875,Card
+TXN0038,Ibrahim,Desk Lamp,5250,Mobile Money
+TXN0039,Yemi,Backpack,6625,Bank Transfer
+TXN0040,Ayo,Monitor,8000,Cash
+TXN0041,Kemi,Phone,9375,USSD
+TXN0042,Zainab,Water Bottle,10750,Card
+TXN0043,Bola,Notebook,12125,Mobile Money
+TXN0044,Kunle,Mouse,13500,Bank Transfer
+TXN0045,Ada,Laptop,14875,Cash
+TXN0046,Chinedu,T-Shirt,16250,USSD
+TXN0047,Musa,Power Bank,17625,Card
+TXN0048,Seyi,Keyboard,19000,Mobile Money
+TXN0049,Dami,Flash Drive,20375,Bank Transfer
+TXN0050,Ngozi,Sneakers,21750,Cash
+TXN0051,David,USB Cable,23125,USSD
+TXN0052,Emeka,Headphones,24500,Card
+TXN0053,Ola,Desk Lamp,25875,Mobile Money
+TXN0054,Blessing,Backpack,27250,Bank Transfer
+TXN0055,Fatima,Monitor,28625,Cash
+TXN0056,Tunde,Phone,30000,USSD
+TXN0057,Daniel,Water Bottle,31375,Card
+TXN0058,Ibrahim,Notebook,32750,Mobile Money
+TXN0059,Yemi,Mouse,34125,Bank Transfer
+TXN0060,Ayo,Laptop,35500,Cash
+TXN0061,Kemi,T-Shirt,36875,USSD
+TXN0062,Zainab,Power Bank,38250,Card
+TXN0063,Bola,Keyboard,39625,Mobile Money
+TXN0064,Kunle,Flash Drive,41000,Bank Transfer
+TXN0065,Ada,Sneakers,42375,Cash
+TXN0066,Chinedu,USB Cable,43750,USSD
+TXN0067,Musa,Headphones,45125,Card
+TXN0068,Seyi,Desk Lamp,46500,Mobile Money
+TXN0069,Dami,Backpack,47875,Bank Transfer
+TXN0070,Ngozi,Monitor,49250,Cash
+TXN0071,David,Phone,2125,USSD
+TXN0072,Emeka,Water Bottle,3500,Card
+TXN0073,Ola,Notebook,4875,Mobile Money
+TXN0074,Blessing,Mouse,6250,Bank Transfer
+TXN0075,Fatima,Laptop,7625,Cash
+TXN0076,Tunde,T-Shirt,9000,USSD
+TXN0077,Daniel,Power Bank,10375,Card
+TXN0078,Ibrahim,Keyboard,11750,Mobile Money
+TXN0079,Yemi,Flash Drive,13125,Bank Transfer
+TXN0080,Ayo,Sneakers,14500,Cash
+TXN0081,Kemi,USB Cable,15875,USSD
+TXN0082,Zainab,Headphones,17250,Card
+TXN0083,Bola,Desk Lamp,18625,Mobile Money
+TXN0084,Kunle,Backpack,20000,Bank Transfer
+TXN0085,Ada,Monitor,21375,Cash
+TXN0086,Chinedu,Phone,22750,USSD
+TXN0087,Musa,Water Bottle,24125,Card
+TXN0088,Seyi,Notebook,25500,Mobile Money
+TXN0089,Dami,Mouse,26875,Bank Transfer
+TXN0090,Ngozi,Laptop,28250,Cash
+TXN0091,David,T-Shirt,29625,USSD
+TXN0092,Emeka,Power Bank,31000,Card
+TXN0093,Ola,Keyboard,32375,Mobile Money
+TXN0094,Blessing,Flash Drive,33750,Bank Transfer
+TXN0095,Fatima,Sneakers,35125,Cash
+TXN0096,Tunde,USB Cable,36500,USSD
+TXN0097,Daniel,Headphones,37875,Card
+TXN0098,Ibrahim,Desk Lamp,39250,Mobile Money
+TXN0099,Yemi,Backpack,40625,Bank Transfer
+TXN0100,Ayo,Monitor,42000,Cash
+TXN0101,Kemi,Phone,43375,USSD
+TXN0102,Zainab,Water Bottle,44750,Card
+TXN0103,Bola,Notebook,46125,Mobile Money
+TXN0104,Kunle,Mouse,47500,Bank Transfer
+TXN0105,Ada,Laptop,48875,Cash
+TXN0106,Chinedu,T-Shirt,1750,USSD
+TXN0107,Musa,Power Bank,3125,Card
+TXN0108,Seyi,Keyboard,4500,Mobile Money
+TXN0109,Dami,Flash Drive,5875,Bank Transfer
+TXN0110,Ngozi,Sneakers,7250,Cash
+TXN0111,David,USB Cable,8625,USSD
+TXN0112,Emeka,Headphones,10000,Card
+TXN0113,Ola,Desk Lamp,11375,Mobile Money
+TXN0114,Blessing,Backpack,12750,Bank Transfer
+TXN0115,Fatima,Monitor,14125,Cash
+TXN0116,Tunde,Phone,15500,USSD
+TXN0117,Daniel,Water Bottle,16875,Card
+TXN0118,Ibrahim,Notebook,18250,Mobile Money
+TXN0119,Yemi,Mouse,19625,Bank Transfer
+TXN0120,Ayo,Laptop,21000,Cash
+TXN0121,Kemi,T-Shirt,22375,USSD
+TXN0122,Zainab,Power Bank,23750,Card
+TXN0123,Bola,Keyboard,25125,Mobile Money
+TXN0124,Kunle,Flash Drive,26500,Bank Transfer
+TXN0125,Ada,Sneakers,27875,Cash
+TXN0126,Chinedu,USB Cable,29250,USSD
+TXN0127,Musa,Headphones,30625,Card
+TXN0128,Seyi,Desk Lamp,32000,Mobile Money
+TXN0129,Dami,Backpack,33375,Bank Transfer
+TXN0130,Ngozi,Monitor,34750,Cash
+TXN0131,David,Phone,36125,USSD
+TXN0132,Emeka,Water Bottle,37500,Card
+TXN0133,Ola,Notebook,38875,Mobile Money
+TXN0134,Blessing,Mouse,40250,Bank Transfer
+TXN0135,Fatima,Laptop,41625,Cash
+TXN0136,Tunde,T-Shirt,43000,USSD
+TXN0137,Daniel,Power Bank,44375,Card
+TXN0138,Ibrahim,Keyboard,45750,Mobile Money
+TXN0139,Yemi,Flash Drive,47125,Bank Transfer
+TXN0140,Ayo,Sneakers,48500,Cash
+TXN0141,Kemi,USB Cable,49875,USSD
+TXN0142,Zainab,Headphones,2750,Card
+TXN0143,Bola,Desk Lamp,4125,Mobile Money
+TXN0144,Kunle,Backpack,5500,Bank Transfer
+TXN0145,Ada,Monitor,6875,Cash
+TXN0146,Chinedu,Phone,8250,USSD
+TXN0147,Musa,Water Bottle,9625,Card
+TXN0148,Seyi,Notebook,11000,Mobile Money
+TXN0149,Dami,Mouse,12375,Bank Transfer
+TXN0150,Ngozi,Laptop,13750,Cash
+TXN0151,David,T-Shirt,15125,USSD
+TXN0152,Emeka,Power Bank,16500,Card
+TXN0153,Ola,Keyboard,17875,Mobile Money
+TXN0154,Blessing,Flash Drive,19250,Bank Transfer
+TXN0155,Fatima,Sneakers,20625,Cash
+TXN0156,Tunde,USB Cable,22000,USSD
+TXN0157,Daniel,Headphones,23375,Card
+TXN0158,Ibrahim,Desk Lamp,24750,Mobile Money
+TXN0159,Yemi,Backpack,26125,Bank Transfer
+TXN0160,Ayo,Monitor,27500,Cash
+TXN0161,Kemi,Phone,28875,USSD
+TXN0162,Zainab,Water Bottle,30250,Card
+TXN0163,Bola,Notebook,31625,Mobile Money
+TXN0164,Kunle,Mouse,33000,Bank Transfer
+TXN0165,Ada,Laptop,34375,Cash
+TXN0166,Chinedu,T-Shirt,35750,USSD
+TXN0167,Musa,Power Bank,37125,Card
+TXN0168,Seyi,Keyboard,38500,Mobile Money
+TXN0169,Dami,Flash Drive,39875,Bank Transfer
+TXN0170,Ngozi,Sneakers,41250,Cash
+TXN0171,David,USB Cable,42625,USSD
+TXN0172,Emeka,Headphones,44000,Card
+TXN0173,Ola,Desk Lamp,45375,Mobile Money
+TXN0174,Blessing,Backpack,46750,Bank Transfer
+TXN0175,Fatima,Monitor,48125,Cash
+TXN0176,Tunde,Phone,49500,USSD
+TXN0177,Daniel,Water Bottle,2375,Card
+TXN0178,Ibrahim,Notebook,3750,Mobile Money
+TXN0179,Yemi,Mouse,5125,Bank Transfer
+TXN0180,Ayo,Laptop,6500,Cash
+TXN0181,Kemi,T-Shirt,7875,USSD
+TXN0182,Zainab,Power Bank,9250,Card
+TXN0183,Bola,Keyboard,10625,Mobile Money
+TXN0184,Kunle,Flash Drive,12000,Bank Transfer
+TXN0185,Ada,Sneakers,13375,Cash
+TXN0186,Chinedu,USB Cable,14750,USSD
+TXN0187,Musa,Headphones,16125,Card
+TXN0188,Seyi,Desk Lamp,17500,Mobile Money
+TXN0189,Dami,Backpack,18875,Bank Transfer
+TXN0190,Ngozi,Monitor,20250,Cash
+TXN0191,David,Phone,21625,USSD
+TXN0192,Emeka,Water Bottle,23000,Card
+TXN0193,Ola,Notebook,24375,Mobile Money
+TXN0194,Blessing,Mouse,25750,Bank Transfer
+TXN0195,Fatima,Laptop,27125,Cash
+TXN0196,Tunde,T-Shirt,28500,USSD
+TXN0197,Daniel,Power Bank,29875,Card
+TXN0198,Ibrahim,Keyboard,31250,Mobile Money
+TXN0199,Yemi,Flash Drive,32625,Bank Transfer
+TXN0200,Ayo,Sneakers,34000,Cash
